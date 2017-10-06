@@ -16,10 +16,15 @@
 
 
 ## 참고
+
 (구글번역) http://tinyland.site/posts/2017-06-19-Win10-VS2017-compile-opencv3-2-0-and-opencv-contrib3-2-0-to-call-the-text-module.html
+
 https://github.com/tesseract-ocr/tesseract/wiki/Compiling#windows
+
 https://stackoverflow.com/questions/45525377/installing-opencv-3-3-0-with-contrib-modules-using-cmake-cuda-9-0-rc-and-visual
+
 http://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html#gpu-feature-list
+
 https://devtalk.nvidia.com/default/topic/1021038/compile-cuda-win7x64-vs2017-nvcc-fatal-host-compiler-targets-unsupported-os-/
 
  
